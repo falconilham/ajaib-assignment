@@ -20,7 +20,7 @@ function Component() {
     currentPage: 1,
     filteredInfo: null,
   })
-  const { page, gender, name, currentPage } = state
+  const { page, gender, name } = state
   // const sortedInfo = {
   //   order: sortOrder,
   //   columnKey: sortBy
